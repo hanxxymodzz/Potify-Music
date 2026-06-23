@@ -1,4 +1,4 @@
-# vivimusic Dev Guide
+# Potify Music Dev Guide
 This file outlines the process of setting up a local dev environment for vivimusic.
 
 ## Prerequisites
