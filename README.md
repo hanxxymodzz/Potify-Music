@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vivimusic.mkmdevilmi.workers.dev/">
-    <img src="assets/banner.png" alt="VIVI Music Banner" style="display: block; margin: 0 auto; max-width: 100%"/>
+    <img src="assets/banner.png" alt="Potify Music Banner" style="display: block; margin: 0 auto; max-width: 100%"/>
   </a>
   <br>
   <h1>Potify Music</h1>
@@ -16,7 +16,7 @@
     <a href="LICENSE">
       <img src="https://img.shields.io/github/license/vivizzz007/vivi-music?style=for-the-badge" alt="License">
     </a>
-    <a href="https://ko-fi.com/vividhpashokan">
+    <a href="https://hanxxy-modzz-apks.vercel.app/">
       <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
     </a>
   </p>
@@ -77,12 +77,7 @@
     <td align="center">
       <b>Home Page</b><br><br>
       <img src="https://github.com/vivizzz007/vivi-music/blob/main/NEW-UI/6.png?raw=true" width="220" alt="Home Page" />
-    </td>
-  </tr>
-  <tr valign="top">
-    <td align="center">
-      <b>Built-in Updater</b><br><br>
-      <img src="https://github.com/vivizzz007/vivi-music/blob/main/NEW-UI/7.png?raw=true" width="220" alt="Built-in Updater" />
+ 
     </td>
     <td align="center">
       <b>Audio Control Section</b><br><br>
@@ -160,7 +155,7 @@
         <h3>💖 Support the Project</h3>
         <p>If you love Potify Music and want to support its maintenance and active development, please consider buying me a coffee! Your support helps keep this premium audio experience completely active, clean, and ad-free.</p>
         <br>
-        <a href="https://ko-fi.com/vividhpashokan">
+        <a href="https://hanxxy-modzz-apks.vercel.app/">
           <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
         </a>
       </td>
@@ -226,11 +221,6 @@
 
 <hr>
 
-<h2>📄 License</h2>
-<p>This project is licensed under the terms specified in the <a href="LICENSE">LICENSE</a> file.</p>
-
-<hr>
-
 <div align="center">
   <table border="0" cellpadding="15" cellspacing="0" width="85%">
     <tr>
@@ -238,7 +228,7 @@
         <h3>💬 Community & Support</h3>
         <p>Connect with other music lovers, suggest new features, report bugs, and stay updated with the latest releases!</p>
         <br>
-        <a href="https://t.me/+Nen-QpiY0tk1OTE9">
+        <a href="https://t.me/hanxxymods">
           <img src="https://img.shields.io/badge/Telegram-Join%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
         </a>
         <br><br>
@@ -288,4 +278,3 @@
   <p align="center"><strong>Made with HanxxyModz for music lovers everywhere</strong></p>
   <p align="center">⭐ Star this repo if you enjoy Potify Music!</p>
 </div>
-
