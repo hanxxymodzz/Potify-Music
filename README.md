@@ -1,1 +1,1 @@
-# Potify-Music
+# Potify Music
