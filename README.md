@@ -6,7 +6,7 @@
   <h1>Potify Music</h1>
   <h3>More Than Just Music — Your Ultimate Audio Experience</h3>
     <h3>Potify New Release Version 1.0.0.1 - Universal</h3>
-    <h3>👇Klik Downloas File Potify 👇</h3>
+    <h3>👇 Klik Download File Potify 👇</h3>
   <p>
     <a href="https://sfile.co/g9yzZdGbpZe">
       <img src="https://ik.imagekit.io/xk7ancs09/20260627_042209.png?updatedAt=1782508972883" alt="Download Latest">
